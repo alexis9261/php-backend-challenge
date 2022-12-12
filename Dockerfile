@@ -1,4 +1,7 @@
-FROM php:7.4-cli
+FROM php:8.1-cli
+
+#COPY . /project
+#WORKDIR  /project
 
 RUN pecl install xdebug
 RUN docker-php-ext-enable xdebug

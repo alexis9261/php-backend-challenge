@@ -1,5 +1,13 @@
 # Talently Challenge
 
+
+## Documentation
+
+
+
+
+
+----------------------------------------------------------------
 ## Configuración
 
 Este repositorio incluye la configuración inicial para este problema, incluyendo los specs. Usa la librería de [Kahlan](http://kahlan.readthedocs.org/en/latest/), que probablemente no has usado. Pero no te preocupes, no hay mucho que aprender. Revisa los specs y entenderás la sintaxis básica en menos de un minuto.
@@ -57,3 +65,5 @@ Para dejarlo claro, un producto nunca puede incrementar su Quality mayor a 50, s
 2. Una breve explicación de cómo laravel utiliza la injección de dependencias
 3. En qué casos utilizarías un Query Scope?
 4. Qué convenciones utilizas en la creación e implementación de migraciones?
+
+

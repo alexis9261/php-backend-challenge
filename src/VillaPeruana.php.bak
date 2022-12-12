@@ -29,7 +29,7 @@ class VillaPeruana
                     $this->quality = $this->quality - 1;
                 }
             }
-        } else {
+        } else { // pisco o ticket
             if ($this->quality < 50) {
                 $this->quality = $this->quality + 1;
 
